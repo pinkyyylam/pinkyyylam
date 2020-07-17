@@ -16,13 +16,16 @@
 
 據內地媒體報道，浙江一名30歲梁姓男子早前公司受新冠肺炎影響下業績受到影響，因此復工後就需追趕業績進度，公司上下不少員工需要瘋狂加班。雖然他在上月19日開始發燒，但仍然工作超過10小時以上。
 
-***
+<!--***-->
 
-## 延申閱讀
+<!--## 延申閱讀-->
+<!--
 <p align="center">
   <a href="https://www.tbs.co.jp/watatei/">
     <img src="https://www.tbs.co.jp/watatei/img/ogp.png" width="460"/>
   </a>
 </p>
 <h3 align="center"><a href="https://www.tbs.co.jp/watatei/">わたし、定時で帰ります。</a></h3>
+-->
+
 
